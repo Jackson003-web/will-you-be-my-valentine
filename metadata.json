@@ -1,0 +1,7 @@
+{
+  "name": "Loverly - Interactive AI Valentine's Experience",
+  "description": "A high-end, interactive Valentine's Day application featuring AI-powered love letter generation, romantic scene creation, and whimsical interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
